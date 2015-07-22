@@ -1,0 +1,17 @@
+{
+  "name": "css_assign3",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp browser_sync"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.8.0",
+    "bs-html-injector": "^2.0.4",
+    "gulp": "^3.9.0",
+    "gulp-install": "^0.4.0"
+  }
+}
